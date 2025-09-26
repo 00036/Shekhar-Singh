@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHEKHAR SINGH</h1>
-<h3 align="center">GenAI/AI/ML Engineer @ AyanshTech Solution || Ex- VTL(M.P. Birla Groups)</h3>
+<h3 align="center">Data Analyst and AI/ML Trainee @ AyanshTech Solution || Ex- VTL(M.P. Birla Groups)</h3>
 
 - 🔭 I’m currently working on **Security System powered by AI and Deepseek**
 
@@ -10,8 +10,6 @@
 - 💬 Ask me about **AI/ML and Data Analytics**
 
 - 📫 How to reach me **singhshekhar3002@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uuP4HTcNy7LoEnCaRkvkJLI3ZGHBliI1/view?usp=drive_link](https://drive.google.com/file/d/1uuP4HTcNy7LoEnCaRkvkJLI3ZGHBliI1/view?usp=drive_link)
 
 - ⚡ Fun fact **AI once beat world champions at Go — a game with more possible moves than atoms in the universe. ♟️🧠**
 
